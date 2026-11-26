@@ -21,7 +21,7 @@ I turn messy business data into clear reports, dashboards and decisions. I work 
 
 ### Education & certifications
 
-Master of Data Science (Applied to Agriculture), The University of Western Australia  
+MSc Data Science (Applied Agriculture), The University of Western Australia  
 Bachelor of Computer Science, Technical University of Munich  
 Microsoft Certified: Power BI Data Analyst Associate (PL-300)  
 IBM Data Science Professional Certificate
